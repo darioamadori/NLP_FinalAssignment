@@ -1,7 +1,7 @@
 # 🧠 PubMedQA - Biomedical Question Answering using NLP
 
 ## 📌 Project Overview
-This project was developed as part of the Natural Language Processing course at the University of Milano-Bicocca (2024/2025). The goal was to explore the capabilities of various NLP models in classifying and answering biomedical research questions using the PubMedQA dataset.
+This project was developed as part of the Natural Language Processing course at the Polytechnic University of Milan (2024/2025). The goal was to explore the capabilities of various NLP models in classifying and answering biomedical research questions using the PubMedQA dataset.
 
 ## 🧪 Dataset
 We used [PubMedQA](https://huggingface.co/datasets/qiaojin/PubMedQA), a dataset of over 270,000 medical questions and answers derived from PubMed publications. Each record includes:
